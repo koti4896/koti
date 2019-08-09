@@ -1,0 +1,2 @@
+# koti
+start learning git
